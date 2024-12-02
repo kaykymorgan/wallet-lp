@@ -5,7 +5,7 @@ function Hero() {
 
         <div className="basis-1/2"> 
             <h1 className="font-extrabold text-3xl uppercase mb-4">Simplifique Seus Investimentos e Potencialize Seus Resultados</h1>
-            <span className="text-zinc-500 ">
+            <span className="text-zinc-400 ">
                 Gerencie sua carteira, tome decisões inteligentes e tenha controle total sobre seus investimentos.
                 Nossa plataforma combina tecnologia de ponta e insights financeiros para maximizar sua performance no mercado.
             </span> <br />

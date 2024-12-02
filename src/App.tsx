@@ -1,3 +1,4 @@
+import Contact from "./Components/Contact"
 import Hero from "./Components/Hero"
 import NavBar from "./Components/NavBar"
 import Partners from "./Components/Partners"
@@ -14,6 +15,7 @@ function App() {
       <Partners/>
       <Preview/>
       <Services/>
+      <Contact/>
     </>
   )
 }
