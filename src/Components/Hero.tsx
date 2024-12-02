@@ -1,5 +1,5 @@
 
-function Hero() {
+export default function Hero() {
   return (
     <main className="flex items-center justify-between h-2/3 mt-24 max-w-screen-xl mx-auto p-4 ">
 
@@ -18,5 +18,3 @@ function Hero() {
     </main>
   )
 }
-
-export default Hero

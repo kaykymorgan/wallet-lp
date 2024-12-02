@@ -1,5 +1,5 @@
 
-function NavBar() {
+export default function NavBar() {
   return (
     <nav className="flex justify-between max-w-screen-xl mx-auto p-4 ">
 
@@ -13,5 +13,3 @@ function NavBar() {
     </nav>
   )
 }
-
-export default NavBar

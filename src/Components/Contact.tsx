@@ -6,7 +6,7 @@ type TFormData = {
   email: string;
 };
 
-function Contact() {
+export default function Contact() {
   const { register, handleSubmit } = useForm<TFormData>();
   const handleSave = (data: TFormData) => {
     console.log(data);
@@ -76,5 +76,3 @@ function Contact() {
     </div>
   );
 }
-
-export default Contact;

@@ -1,5 +1,5 @@
 
-function Services() {
+export default function Services() {
   return (
     <>
         <h1 className="flex justify-center font-extrabold text-3xl uppercase mt-10">soluções Inteligentes para Seus Pagamentos</h1>
@@ -31,5 +31,3 @@ function Services() {
     </>
   )
 }
-
-export default Services
