@@ -6,8 +6,8 @@ function NavBar() {
       <span className="font-bold text-2xl font-sans"> Wallet </span>
 
       <div className="flex gap-6">
-        <button className="hover:text-violet-400">Sign up</button>
-        <button className="bg-violet-400 rounded-md px-8 py-2 hover:bg-violet-500">Log in</button>
+        <button className="hover:text-amber-400">Sign up</button>
+        <button className="bg-amber-200 rounded-md px-8 py-2 text-zinc-950 font-medium hover:bg-amber-400">Log in</button>
       </div>
       
     </nav>
