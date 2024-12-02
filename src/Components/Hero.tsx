@@ -9,7 +9,7 @@ function Hero() {
                 Gerencie sua carteira, tome decisões inteligentes e tenha controle total sobre seus investimentos.
                 Nossa plataforma combina tecnologia de ponta e insights financeiros para maximizar sua performance no mercado.
             </span> <br />
-            <button className="bg-yellow-300 text-zinc-950 font-medium rounded-md px-8 py-2 mt-6 hover:bg-yellow-400"> Get started </button>
+            <button className="bg-yellow-300 text-zinc-950 font-medium rounded-md px-8 py-2 mt-6 hover:bg-yellow-400"> Veja Mais </button>
         </div>
 
         <div className="bg-zinc-600 rounded-3xl">
