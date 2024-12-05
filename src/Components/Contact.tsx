@@ -13,7 +13,7 @@ export default function Contact() {
   };
 
   return (
-    <div className="flex items-center justify-between max-w-screen-xl mx-auto mt-28">
+    <div className="flex items-center justify-between max-w-screen-xl mx-auto">
 
         <div className="basis-1/2">
             <h1 className="font-extrabold text-3xl uppercase mb-4"> Alguma dúvida? Fale conosco!</h1>
